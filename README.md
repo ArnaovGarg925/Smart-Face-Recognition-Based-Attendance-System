@@ -26,8 +26,8 @@ A Java-based system that uses OpenCV for real-time face detection and recognitio
 ## Screenshots
 *(Add screenshots of GUI, detection, logs, email confirmation, and report)*
 
-## GitHub RepositorySystem)
+## GitHub Repository
 
 
 ## Author
-Arnaov Singh – SRM Institute of Technology – Computer Science Department
+Arnaov Singh – ABC Institute of Technology – Computer Science Department
