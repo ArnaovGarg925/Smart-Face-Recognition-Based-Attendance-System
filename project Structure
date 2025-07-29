@@ -1,0 +1,14 @@
+FaceAttendanceSystem/
+├── src/
+│   ├── Main.java
+│   ├── FaceDetector.java
+│   ├── AttendanceLogger.java
+│   ├── EmailNotifier.java
+│   └── ReportGenerator.java
+├── lib/
+│   └── opencv-xxx.jar
+├── resources/
+│   └── haarcascade_frontalface.xml
+├── screenshots/
+│   └── [to be added after running]
+├── README.md
