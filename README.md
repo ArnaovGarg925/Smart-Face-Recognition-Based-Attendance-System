@@ -1,2 +1,33 @@
-# Smart-Face-Recognition-Based-Attendance-System
-Language: Java Libraries: OpenCV, Swing, SQLite Features: - Real-time face detection and recognition - GUI for user interaction - Attendance logging into a database - Email notification for absentees - Report generation
+# Smart Face Recognition-Based Attendance System
+
+## Overview
+A Java-based system that uses OpenCV for real-time face detection and recognition to automate classroom attendance. It logs attendance in SQLite and sends email notifications to absentees.
+
+## Features
+- Real-time face detection
+- GUI interface using Swing
+- Attendance logging in SQLite
+- Email notifications via JavaMail
+- Attendance report generation
+
+## Technologies
+- Java
+- OpenCV
+- SQLite
+- JavaMail API
+- Swing (GUI)
+
+## Setup Instructions
+1. Install JDK and OpenCV
+2. Add `opencv-xxx.jar` to your classpath
+3. Place `haarcascade_frontalface.xml` in `resources/`
+4. Run `Main.java`
+
+## Screenshots
+*(Add screenshots of GUI, detection, logs, email confirmation, and report)*
+
+## GitHub RepositorySystem)
+
+
+## Author
+Arnaov Singh – SRM Institute of Technology – Computer Science Department
