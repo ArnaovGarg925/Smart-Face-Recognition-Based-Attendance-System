@@ -23,11 +23,8 @@ A Java-based system that uses OpenCV for real-time face detection and recognitio
 3. Place `haarcascade_frontalface.xml` in `resources/`
 4. Run `Main.java`
 
-## Screenshots
-*(Add screenshots of GUI, detection, logs, email confirmation, and report)*
-
 ## GitHub Repository
-
+https://github.com/ArnaovGarg925/Smart-Face-Recognition-Based-Attendance-System/tree/main
 
 ## Author
-Arnaov Singh – ABC Institute of Technology – Computer Science Department
+Arnaov Singh – SRM Institute of Technology – Computer Science Department
